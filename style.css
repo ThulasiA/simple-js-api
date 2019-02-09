@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  font-family: 'Dosis';
+}
+
+img {  
+  height: 100px;
+  width: 100px;
+}
